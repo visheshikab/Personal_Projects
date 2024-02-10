@@ -8,7 +8,7 @@ import streamlit as st
 
 #from streamlit_jupyter import StreamlitPatcher, tqdm
 
-StreamlitPatcher().jupyter()  # register streamlit with jupyter-compatible wrappers
+#StreamlitPatcher().jupyter()  # register streamlit with jupyter-compatible wrappers
 
 import streamlit as st
 import pandas as pd
